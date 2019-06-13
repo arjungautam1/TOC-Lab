@@ -1,7 +1,5 @@
 //dfa for language over {0,1} which accepts all strings with even number of 0's
 package  toc_lab_dfa;
-
-
 import java.util.*;
 public class Lab1{
 public static void main(String[] args) {

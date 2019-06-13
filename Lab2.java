@@ -1,4 +1,4 @@
-//accepting 3 consective 0's
+//accepting string   ending  with 3 consecutive 0's
 package toc_lab_dfa;
 
 import java.util.*;
